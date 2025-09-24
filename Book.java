@@ -1,6 +1,6 @@
 package ex_11_1;
 
-public class Book extends TangibleAsset { //クラス宣言
+public class Book extends TangibleAsset { 
 	//差分をかく
 	String isbn;
 	//コンストラクタ　継承なので()内にも親で引き継ぎたい部分＋差分
